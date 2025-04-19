@@ -73,6 +73,7 @@ img {
 }
 .header > .container {
   display: flex;
+  align-items: center;
 }
 .container {
   width: 1158px;
@@ -115,6 +116,7 @@ img {
   text-align: center;
   color: #ffffff;
   max-width: 496px;
+  margin: 0 auto 48px;
 }
 .button {
   font-family: "Roboto", sans-serif;
@@ -131,6 +133,7 @@ img {
   background-color: #4d5ae5;
   border-radius: 4px;
   cursor: pointer;
+  margin: 0 auto;
 }
 .button:hover,
 .button:focus {
